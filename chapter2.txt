@@ -1,0 +1,11 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 3EEF-9A0B
+
+ Directory of C:\Users\kackp\Desktop\Story
+
+25/03/2020  12:12    <DIR>          .
+25/03/2020  12:12    <DIR>          ..
+25/03/2020  12:06                 0 chapter1.txt
+25/03/2020  12:12                 0 chapter2.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  27,321,565,184 bytes free
